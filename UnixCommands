@@ -1,1 +1,29 @@
+ls -al
+pwd
+mkdir directory
+rm file
+rm -r directory
+rm -f file
+rm -rf directory
+cp file1 file2
+cp -r source_directory destination
+mv file1 file2
+ln -s /path/to/file linkname
+touch file
+cat file
+less file
+head file
+tail file
+tail -f file
 
+uname -a
+uname -r
+cat /etc/redhat-release
+uptime
+hostname
+hostname -I
+last reboot
+date
+cal
+w
+whoami
